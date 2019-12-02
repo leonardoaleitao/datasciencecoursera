@@ -1,8 +1,0 @@
----
-title: "HelloWorld"
-author: "Leonardo Albagli Leitão"
-date: "12/2/2019"
-output: html_document
----
-
-## This is a markdown file
